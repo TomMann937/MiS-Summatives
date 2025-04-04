@@ -15,5 +15,9 @@
         ".vscode",
         ".vscode-insiders",
         ".bbl"
+    ],
+    "cSpell.ignoreWords": [
+        "Ughh"
     ]
+
 }
