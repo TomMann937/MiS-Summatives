@@ -5,7 +5,8 @@
         "howpublished",
         "Nim",
         "obius",
-        "OLST"
+        "OLST",
+        "Shindler"
     ],
     "cSpell.ignorePaths": [
         "package-lock.json",
